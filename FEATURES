@@ -1,11 +1,11 @@
-AndSys 0.3.j.26 Copyright (C) 2012, 2013 Giulio Orru'
+AndSys 0.3.k.27 Copyright (C) 2012, 2013 Giulio Orru'
 
 (BETA) Information Tool about installed Applications.
 
 ## Major Features:
 1. List all installed apps (01f).
 2. Sort apps by Name, Package, Install date, in Ascending or Descending Order (01k10).
-3. Filter by application state: Launchable, NO Launchable (03g23).
+3. Filter by application state: Launchable, System (03k27).
 4. SHORT CLICK to access Application info: storage, cache, controls... (01k10).
 5. LONG PRESS to launch Application (02a12).
 6. Device Information: Memory; Screen Width, Height, Density; ... (03b18).
@@ -17,7 +17,7 @@ AndSys 0.3.j.26 Copyright (C) 2012, 2013 Giulio Orru'
 - Requires Android 1.6 and above (02a12).
 
 ## What's New:
- (03j26) Custom Theme & Install Location = Auto & Clean up Help Activity.
+ (03k27) System App Filter.
 
 ## Keywords:
  apk, app, apps, details, info, information, installed, packages, system, tool, utility.

@@ -10,15 +10,14 @@
 
 ## Minor Features:
 - English and Italian localization (01l11).
-- Specific Layout for screens in the landscape orientation (03f22).
 - No Permission Required (01).
 - Requires Android 1.6 and above (02a12).
 
 ## What's New:
- (03l28) Number of permissions per application & Fix graphics problem in Help activity.
+ (03m29) Fix Apps spinner selection inconsistent when come back from another activity.
 
 ## Keywords:
  apk, app, apps, details, info, information, installed, packages, system, tool, utility.
  
 --
- AndSys 0.3.l.28 Copyright (C) 2012, 2013 Giulio Orru'
+ AndSys 0.3.m.29 Copyright (C) 2012, 2013 Giulio Orru'

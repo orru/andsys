@@ -4,10 +4,9 @@
 1. List all installed apps (01f).
 2. Sort apps by Name, Package, Install date, Permissions, in Ascending or Descending Order (03l28).
 3. Number of Dangerous Permissions are in bold (03n30).
-4. Filter by application state: Launchable, System (03k27).
-5. SHORT CLICK to access Application info: storage, cache, controls... (01k10).
-6. LONG PRESS to launch Application (02a12).
-7. Device Information: Memory; Screen Width, Height, Density; ... (03b18).
+4. Filter by application state: Launchable, System, Start on boot (04rc1).
+5. SHORT CLICK to access Application info and LONG PRESS to launch it (02a12).
+6. Device Information: Screen Width, Height, Density (04rc1).
 
 ## Minor Features:
 - English and Italian localization.
@@ -15,10 +14,10 @@
 - Requires Android 1.6 and above.
 
 ## What's New:
-(03n30) Number of Dangerous Permissions are in bold & Optimized images.
+(04rc1) Hide incorrect amount of device memory & Start on Boot filter & Loading using Async Task.
 
 ## Keywords:
 apk, app, apps, details, info, information, installed, packages, system, tool, utility.
 
 --
-AndSys 0.3.n.30 Copyright (C) 2012, 2013 Giulio Orru'
+AndSys 0.4-rc1 Copyright (C) 2012, 2013 Giulio Orru'

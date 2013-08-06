@@ -4,10 +4,9 @@
 1. Lista delle app installate (01f).
 2. Ordinamento, ascendete o discendente, per Nome, Pacchetto, Installazione o Permessi (03l28).
 3. Il numero dei Permessi Rischiosi e' scritto in grassetto (03n30).
-4. Filtro in base allo stato dell'app: Avviabile, di Sistema (03k27).
-5. Un CLICK BREVE per i dettagli dell'app: archiviazione, cache, controlli... (01k10).
-6. PRESSIONE LUNGA per avviare l'app (02a12).
-7. Info sul dispositivo: Memoria; Larghezza, Altezza, Densita' Schermo; ... (03b18).
+4. Filtro in base allo stato dell'app: Avviabile, di Sistema, Avvio all'accensione (04rc1).
+5. Un CLICK BREVE per i dettagli dell'app o PRESSIONE LUNGA per avviarla (02a12).
+6. Info sul dispositivo: Larghezza, Altezza, Densita' Schermo (04rc1).
 
 ## Caratteristiche minori:
 - Localizzazione in Inglese e Italiano.
@@ -15,10 +14,11 @@
 - Richiede Android 1.6 o sucessivo.
 
 ## Cosa c'e' di Nuovo:
-(03n30) Il numero dei Permessi Rischiosi e' scritto in grassetto & Ottimizzazione delle immagini.
+(04rc1) Rimossi i valori errati della memoria del dispositivo & Filtro avvio all'accensione
+ & Uso di AsyncTask nel caricamento delle App.
 
 ## Parole chiave:
 apk, app, apps, dettagli, info, informazioni, installato, pacchetti, sistema, strumento, utilita'.
 
 --
-AndSys 0.3.n.30 Copyright (C) 2012, 2013 Giulio Orru'
+AndSys 0.4-rc1 Copyright (C) 2012, 2013 Giulio Orru'

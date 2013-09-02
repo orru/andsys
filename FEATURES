@@ -1,23 +1,42 @@
+Features ~ AndSys
+=================
+
 (BETA) Information Tool about installed Applications.
 
-## Major Features:
-1. List all installed apps (01f).
-2. Sort apps by Name, Package, Install date, Permissions, in Ascending or Descending Order (03l28).
-3. Number of Dangerous Permissions are in bold (03n30).
-4. Filter by application state: Launchable, System, Start on boot (04rc1).
-5. SHORT CLICK to access Application info and LONG PRESS to launch it (02a12).
-6. Device Information: Screen Width, Height, Density (04rc1).
+## Major Features
 
-## Minor Features:
+1. List all installed apps.
+
+2. Sort apps by Name, Package, Install date, Permissions, in Ascending or Descending Order.
+
+3. Number of Dangerous Permissions are in bold.
+
+4. Filter by application state: Launchable, System, Start on boot.
+
+5. SHORT CLICK to access Application info and LONG PRESS to launch it.
+
+6. Device Information: Screen Width, Height, Density.
+
+## Minor Features
+
 - English and Italian localization.
+
 - No Permission Required.
+
 - Requires Android 1.6 and above.
 
-## What's New:
-(04rc1) Hide incorrect amount of device memory & Start on Boot filter & Loading using Async Task.
+## What`s New
 
-## Keywords:
-apk, app, apps, details, info, information, installed, packages, system, tool, utility.
+* Restyling and create external theme library.
 
---
-AndSys 0.4-rc1 Copyright (C) 2012, 2013 Giulio Orru'
+* Create NEWS file to record changes between releases.
+
+* Minor bug fixes.
+
+## Keywords
+	
+app, apps, details, info, information, installed, packages, system, tool, utility
+
+----
+
+AndSys 0.4-rc2 Copyright (C) 2012, 2013 Giulio Orru`

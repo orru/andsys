@@ -1,24 +1,24 @@
+Read Me ~ AndSys
+================
+
 Thanks to use this free software released under the MIT license!
 
-If you appreciate it, please consider making a donation to support its development.
-You can also contribute by translating AndSys to the languages you know or submitting bugs.
+If you appreciate it, please consider making a donation to support its
+development. You can also contribute by translating **AndSys** to the
+languages you know or submitting bugs.
 
-"People with new ideas could distribute programs as 'free software', asking
-for donations from satisfied users, or selling hand-holding services. I have
-met people who are already working this way successfully"
-Richard Stallman
+> People with new ideas could distribute programs as `free-software`, asking
+> for donations from satisfied users, or selling hand-holding services. I have
+> met people who are already working this way successfully (Richard Stallman)
 
-## Web Site and Source code:
-http://andsys.sourceforge.net
+* [License](http://opensource.org/licenses/MIT)
 
-## License:
-http://opensource.org/licenses/MIT
+* [Donate EUR 0.75](http://sourceforge.net/p/andsys/donate)
 
-## Contribute or Support:
-http://sourceforge.net/p/andsys/discussion/general
+* [Contribute or Support](http://sourceforge.net/p/andsys/discussion/general)
 
-## Donate EUR 0.75:
-http://sourceforge.net/p/andsys/donate
+* [Web Site and Source code](http://andsys.sourceforge.net)
 
--- 
-AndSys 0.4-rc1 Copyright (C) 2012, 2013 Giulio Orru'
+----
+
+AndSys 0.4-rc2 Copyright (C) 2012, 2013 Giulio Orru`

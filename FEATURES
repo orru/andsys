@@ -9,13 +9,13 @@ Features ~ AndSys
 
 2. Sort apps by Name, Package, Install date, Permissions, in Ascending or Descending Order.
 
-3. Number of Dangerous Permissions are in bold.
+3. Number of dangerous permissions are in bold.
 
-4. Filter by application state: Launchable, System, Start on boot.
+4. Filter by application state: (&alpha;) launchable, (&sect;) system, (&beta;) start on boot.
 
-5. SHORT CLICK to access Application info and LONG PRESS to launch it.
+5. SHORT CLICK to access application info and LONG PRESS to launch it.
 
-6. Device Information: Screen Width, Height, Density.
+6. Device Information: screen width, height, density.
 
 ## Minor Features
 
@@ -25,18 +25,10 @@ Features ~ AndSys
 
 - Requires Android 1.6 and above.
 
-## What`s New
-
-* Restyling and create external theme library.
-
-* Create NEWS file to record changes between releases.
-
-* Minor bug fixes.
-
 ## Keywords
 	
 app, apps, details, info, information, installed, packages, system, tool, utility
 
 ----
 
-AndSys 0.4-rc2 Copyright (C) 2012, 2013 Giulio Orru`
+AndSys 0.4-rc3 Copyright (C) 2012, 2013 Giulio Orru`
